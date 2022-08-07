@@ -48,7 +48,7 @@ body {
   
   
  
-}
+
 
 ol, ul {
   list-style: none;
@@ -107,9 +107,15 @@ table {
   display: flex;
   gap: 1rem;
 }
+
+
 .item {
   margin-top: 30px;
 }
+
+
+
+
 .link {
   text-decoration: none;
   text-transform: uppercase;
@@ -190,7 +196,10 @@ color: #fff;
     margin-left: 0em;
     height: 7.8em;
     margin-top: 10em ;
+
+    
   }
+  
   .formaal {
     display: flex;
     font-size: 22px;
@@ -253,4 +262,21 @@ color: #fff;
         width: auto;
         height: 100%;
     }
+}
+
+
+
+
+.kommendearrangementer{
+    
+    font-family: "Meno Banner";
+font-weight: 900;
+font-size: 48px;
+line-height: 108px;
+text-align: left;
+color: #5c6e71;
+border: 1px solid rgba(0, 0, 0, 0);
+margin-top: 140px;
+
+    
 }
