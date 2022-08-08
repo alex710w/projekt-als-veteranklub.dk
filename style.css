@@ -338,3 +338,18 @@ margin-top: 200px;
 .arrangement1{
 
 }
+
+.læsmere{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    margin-top: 105%;
+    margin-left: -28%;
+    font-family: "Meno Banner";
+    font-size: 16px;
+    font-weight: 200    ;
+}
